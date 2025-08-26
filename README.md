@@ -41,15 +41,16 @@
 
 # 🚀 Projetos em Destaque
 
-Aqui estão alguns projetos que desenvolvi ou estou desenvolvendo:
+Aqui está um projeto que desenvolvi ou estou desenvolvendo:
 
 <p align="center">
-  <a href="https://github.com/gustavobuoro/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavobuoro&rPythonTeste/calc.py />
+  <a href="https://github.com/GustavoBuoro/Estudos_Python/blob/master/PythonTeste/calc.py">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoBuoro&repo=Estudos_Python&theme=tokyonight" />
   </a>
-  <a href="https://github.com/gustavobuoro/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavobuoro&repo=&theme=tokyonight" />
-  </a>
+</p>
+
+<p align="center">
+  <em>Um projeto simples, mas que marca meu primeiro "projeto" em Python. 💻🚀</em>
 </p>
 
 ---
