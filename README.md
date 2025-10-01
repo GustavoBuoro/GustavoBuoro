@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px">
 
-🎂 Meu nome é **Gustavo Buoro** e tenho **16 anos**.  
+🎂 Meu nome é **Gustavo Buoro** e tenho **17 anos**.  
 🎓 Estudo na **ETEC Uirapuru** e estou iniciando minha jornada na programação.  
 💻 Atualmente estou aprendendo **Python** e explorando conceitos de lógica, automação e projetos práticos.
 
